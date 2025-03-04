@@ -1,6 +1,6 @@
 # **Three-Modality Molecular Representation Learning Combined with Multi-Task Optimization for Enhanced Molecular Property Prediction**
 
-![image-20250304141037971](paper.png)
+![The overview of the network architecture](Models/paper.png)
 
 
 
